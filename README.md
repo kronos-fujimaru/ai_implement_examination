@@ -4,6 +4,8 @@
 
 AI実装検定は、Study-AI株式会社が主催するAIプログラマ、およびそれを目指す方向けの検定です。AI、とりわけディープラーニングを実装するために必要な基礎理論、数学、プログラミングの知識の習得を目的としています。日本ディープラーニング協会（JDLA）が主催するE資格（Deep Learning for ENGINEER）の前段階という立場に置かれています。
 
+http://kentei.ai/
+
 <br>
 
 ## 前提条件
@@ -15,3 +17,9 @@ AI実装検定は、Study-AI株式会社が主催するAIプログラマ、お�
 <br>
 
 ## カリキュラム
+
+<a href="./text/00_environment.md">0. 環境構築</a>
+
+<a href="./text/01_python-basic.md">1. Python入門</a>
+
+<a href="./text/02_numpy.md">2. NumPyライブラリ</a>

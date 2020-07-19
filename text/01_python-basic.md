@@ -91,7 +91,9 @@ else:
 
 反復処理にはfor文を使用します。指定回数繰り返すには range関数を使い、以下の形式で引数を指定します。
 
-- range()
+- range(終了値)
+- range(開始値, 終了値)
+- range(開始値, 終了値, 間隔)
 
 ```python
 for i in range(3):

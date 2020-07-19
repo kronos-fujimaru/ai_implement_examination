@@ -7,7 +7,10 @@
 Pythonを使ってAIを実装するために、まずはAnacondaをインストールしましょう。Anacondaは、Python本体に加えて、AI開発に必要なライブラリがまとめられたもの（ディストリビューション）です。
 
 Anaconda（ダウンロードページ）
+
 https://www.anaconda.com/products/individual
+
+<br>
 
 **【インストール手順】**
 1. イントーラを起動する。
